@@ -1,307 +1,303 @@
-﻿﻿Title:,Table 49 - HE student enrolments by HE provider and subject of study,,,,,,,,,,,,,,,,,,,,,,,
-Subtitle:,Academic years 2014/15 to 2024/25,,,,,,,,,,,,,,,,,,,,,,,
-Reference ID:,DT051 Table 49,,,,,,,,,,,,,,,,,,,,,,,
-Data source:,HESA,,,,,,,,,,,,,,,,,,,,,,,
-Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-49,,,,,,,,,,,,,,,,,,,,,,,
-Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-49.zip,,,,,,,,,,,,,,,,,,,,,,,
-Licence:,Creative Commons Attribution 4.0 International Licence,,,,,,,,,,,,,,,,,,,,,,,
-Date:,2026,,,,,,,,,,,,,,,,,,,,,,,
-Filters:,Country of HE provider,,,,,,,,,,,,,,,,,,,,,,,
-,Region of HE provider,,,,,,,,,,,,,,,,,,,,,,,
-,Level of study,,,,,,,,,,,,,,,,,,,,,,,
-,Mode of study,,,,,,,,,,,,,,,,,,,,,,,
-,Academic year,,,,,,,,,,,,,,,,,,,,,,,
-Search:,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,
-UKPRN,HE provider,,,,,,,STEM total,,10 Engineering and technology,11 Computing,,,,Eng Prop,,Rank,Institution,,,,,,
-10008071,AA School of Architecture,,,,,,,0,,0,0,,,,0,,1,University of Cambridge,,,,,,
-10007783,The University of Aberdeen,,,,,,,970,,680,290,,,,0.005139834,,2,University of Oxford,,,,,,
-10007849,Abertay University,,,,,,,1040,,90,950,,,,0.000680272,,3,"London School of Economics and Political Science, University of London",,,,,,
-10007856,Aberystwyth University,,,,,,,605,,60,545,,,,0.000453515,,4,University of St Andrews,,,,,,
-10092025,ACMET London College,,,,,,,0,,0,0,,,,0,,5,Imperial College London,,,,,,
-10067853,ACM Guildford Limited,,,,,,,90,,0,90,,,,0,,6,Durham University,,,,,,
-10032036,Amity University [IN] London,,,,,,,0,,0,0,,,,0,,7,University of Warwick,,,,,,
-10030497,Anglo Skills College,,,,,,,0,,0,0,,,,0,,8,Loughborough University,,,,,,
-10000291,Anglia Ruskin University,,,,,,,2100,,585,"1,515",,,,0.004421769,,9,University of Bath,,,,,,
-10041898,Apex College,,,,,,,0,,0,0,,,,0,,10,Lancaster University,,,,,,
-10005451,Arden University,,,,,,,2770,,85,"2,685",,,,0.000642479,,11,University of Exeter,,,,,,
-10000381,Arts Educational Schools,,,,,,,0,,0,0,,,,0,,12,University of Birmingham,,,,,,
-10008899,The Ashridge (Bonar Law Memorial) Trust,,,,,,,0,,0,0,,,,0,,13,University of Sheffield,,,,,,
-10003212,Hult International Business School Ltd,,,,,,,0,,0,0,,,,0,,13,UCL (University College London),,,,,,
-10007759,Aston University,,,,,,,4130,,"2,120","2,010",,,,0.016024187,,15,University of Southampton,,,,,,
-10007857,Bangor University,,,,,,,430,,130,300,,,,0.000982615,,16,"King's College London, University of London",,,,,,
-10000571,Bath Spa University,,,,,,,985,,0,985,,,,0,,17,University of Bristol,,,,,,
-10007850,The University of Bath,,,,,,,3705,,"2,985",720,,,,0.022562358,,18,University of Leeds,,,,,,
-10007152,University of Bedfordshire,,,,,,,760,,125,635,,,,0.000944822,,19,The University of Edinburgh,,,,,,
-10005343,Queen's University Belfast,,,,,,,3315,,"1,705","1,610",,,,0.012887377,,20,University of York,,,,,,
-10037544,BIMM University,,,,,,,555,,540,15,,,,0.004081633,,21,University of Surrey,,,,,,
-10007810,Birmingham Christian College,,,,,,,0,,0,0,,,,0,,22,University of Liverpool,,,,,,
-10007760,Birkbeck College,,,,,,,485,,0,485,,,,0,,23,Queen's University Belfast,,,,,,
-10007140,Birmingham City University,,,,,,,3415,,"1,185","2,230",,,,0.008956916,,24,University of Manchester,,,,,,
-10006840,The University of Birmingham,,,,,,,4030,,"2,435","1,595",,,,0.01840514,,25,University of Dundee,,,,,,
-10000712,University College Birmingham,,,,,,,465,,40,425,,,,0.000302343,,26,University of Nottingham,,,,,,
-10007832,Birmingham Newman University,,,,,,,70,,0,70,,,,0,,27,Cardiff University,,,,,,
-10000894,Bristol Baptist College,,,,,,,0,,0,0,,,,0,,27,University of the Arts London,,,,,,
-10004061,Bloomsbury Institute,,,,,,,0,,0,0,,,,0,,29,University of Glasgow,,,,,,
-10000385,The Arts University Bournemouth,,,,,,,85,,5,80,,,,3.77929E-05,,30,University of Essex,,,,,,
-10000824,Bournemouth University,,,,,,,1700,,295,"1,405",,,,0.002229781,,31,Heriot-Watt University,,,,,,
-10031982,BPP University,,,,,,,755,,0,755,,,,0,,32,University of Aberdeen,,,,,,
-10007785,The University of Bradford,,,,,,,1275,,500,775,,,,0.003779289,,33,University of Leicester,,,,,,
-10000886,The University of Brighton,,,,,,,1395,,735,660,,,,0.005555556,,34,University of East Anglia UEA,,,,,,
-10007786,The University of Bristol,,,,,,,3400,,"2,525",875,,,,0.019085412,,35,Newcastle University,,,,,,
-10023464,Trinity College Bristol,,,,,,,0,,0,0,,,,0,,36,University of Sussex,,,,,,
-10000961,Brunel University London,,,,,,,2845,,"1,240","1,605",,,,0.009372638,,37,"Northumbria University, Newcastle",,,,,,
-10000975,Buckinghamshire New University,,,,,,,660,,185,475,,,,0.001398337,,38,Harper Adams University,,,,,,
-10008173,University of the Built Environment,,,,,,,0,,0,0,,,,0,,39,University of Strathclyde,,,,,,
-10007787,The University of Buckingham,,,,,,,95,,5,90,,,,3.77929E-05,,40,Queen Mary University of London,,,,,,
-10042737,UK Business College Ltd,,,,,,,0,,0,0,,,,0,,41,Swansea University,,,,,,
-10019368,London College of Business Studies,,,,,,,20,,0,20,,,,0,,42,"Royal Holloway, University of London",,,,,,
-10010308,Cambridge Arts and Sciences Limited,,,,,,,0,,0,0,,,,0,,43,University of Reading,,,,,,
-10007788,The University of Cambridge,,,,,,,2295,,"1,880",415,,,,0.014210128,,44,University of Suffolk,,,,,,
-10032072,The Cambridge Theological Federation,,,,,,,0,,0,0,,,,0,,45,Oxford Brookes University,,,,,,
-10001143,Canterbury Christ Church University,,,,,,,640,,150,490,,,,0.001133787,,46,Nottingham Trent University,,,,,,
-10007814,Cardiff University,,,,,,,2615,,"1,640",975,,,,0.01239607,,47,Ulster University,,,,,,
-10034450,Cardiff and Vale College,,,,,,,40,,25,15,,,,0.000188964,,48,Brunel University of London,,,,,,
-10086359,Caspian School of Academics,,,,,,,280,,0,280,,,,0,,49,Bangor University,,,,,,
-10007854,Cardiff Metropolitan University,,,,,,,1065,,295,770,,,,0.002229781,,50,University of Lincoln,,,,,,
-10057213,CEG UFP Limited,,,,,,,100,,70,30,,,,0.000529101,,50,University of Portsmouth,,,,,,
-10001264,Central School of Ballet,,,,,,,0,,0,0,,,,0,,52,"Aston University, Birmingham",,,,,,
-10024024,Central Film School,,,,,,,0,,0,0,,,,0,,53,Manchester Metropolitan University,,,,,,
-10007848,University of Chester,,,,,,,550,,90,460,,,,0.000680272,,54,Keele University,,,,,,
-10007137,The University of Chichester,,,,,,,250,,130,120,,,,0.000982615,,55,University of Stirling,,,,,,
-10001386,Chicken Shed Theatre Company,,,,,,,0,,0,0,,,,0,,56,Aberystwyth University,,,,,,
-10001546,The College of Integrated Chinese Medicine,,,,,,,0,,0,0,,,,0,,57,Coventry University,,,,,,
-10026921,Christ the Redeemer College,,,,,,,0,,0,0,,,,0,,58,Edge Hill University,,,,,,
-10010213,The City College,,,,,,,0,,0,0,,,,0,,59,"City St George's, University of London",,,,,,
-10001478,"City St George's, University of London",,,,,,,2320,,"1,230","1,090",,,,0.009297052,,60,Norwich University of the Arts,,,,,,
-10007912,Cliff College,,,,,,,0,,0,0,,,,0,,61,"Goldsmiths, University of London",,,,,,
-10066502,The College of Health Ltd,,,,,,,0,,0,0,,,,0,,62,University of Kent,,,,,,
-10041295,Coleg Cambria,,,,,,,15,,10,5,,,,7.55858E-05,,63,University of Chichester,,,,,,
-10008912,Coleg Gwent,,,,,,,35,,35,0,,,,0.00026455,,64,University of Hull,,,,,,
-10091065,Collective Acting Studio,,,,,,,0,,0,0,,,,0,,65,Falmouth University,,,,,,
-10023442,The College of Osteopaths,,,,,,,0,,0,0,,,,0,,66,University of Salford,,,,,,
-10020038,Commonwealth College of Excellence,,,,,,,70,,0,70,,,,0,,67,University of Plymouth,,,,,,
-10007761,Courtauld Institute of Art,,,,,,,0,,0,0,,,,0,,68,University of Huddersfield,,,,,,
-10034324,Court Theatre Training Company Ltd,,,,,,,0,,0,0,,,,0,,68,University of Sunderland,,,,,,
-10001726,Coventry University,,,,,,,3420,,"1,820","1,600",,,,0.013756614,,70,University of Hertfordshire,,,,,,
-10007822,Cranfield University,,,,,,,380,,15,365,,,,0.000113379,,71,University of Derby,,,,,,
-10006427,University for the Creative Arts,,,,,,,670,,0,670,,,,0,,72,Cardiff Metropolitan University,,,,,,
-10007842,University of Cumbria,,,,,,,120,,115,5,,,,0.000869237,,72,Arts University Bournemouth,,,,,,
-10015688,David Game College Ltd,,,,,,,30,,0,30,,,,0,,74,"Bristol, UWE",,,,,,
-10001883,De Montfort University,,,,,,,2955,,"1,125","1,830",,,,0.008503401,,75,Robert Gordon University,,,,,,
-10007851,University of Derby,,,,,,,1985,,"1,410",575,,,,0.010657596,,76,Liverpool John Moores University,,,,,,
-10007852,The University of Dundee,,,,,,,675,,405,270,,,,0.003061224,,77,Bournemouth University,,,,,,
-10007143,University of Durham,,,,,,,1205,,685,520,,,,0.005177627,,78,University of Chester,,,,,,
-10067355,Dyson Technical Training Limited,,,,,,,165,,165,0,,,,0.001247166,,79,"St Mary's University, Twickenham",,,,,,
-10007789,The University of East Anglia,,,,,,,1010,,300,710,,,,0.002267574,,80,University of Worcester,,,,,,
-10007144,The University of East London,,,,,,,2900,,825,"2,075",,,,0.006235828,,81,Sheffield Hallam University,,,,,,
-10032282,The Queen's Foundation for Ecumenical Theological Education,,,,,,,0,,0,0,,,,0,,81,Edinburgh Napier University,,,,,,
-10007823,Edge Hill University,,,,,,,595,,130,465,,,,0.000982615,,83,Liverpool Hope University,,,,,,
-10007772,Edinburgh Napier University,,,,,,,2000,,460,"1,540",,,,0.003476946,,84,University of West London,,,,,,
-10007790,The University of Edinburgh,,,,,,,3025,,"1,930","1,095",,,,0.014588057,,85,University for the Creative Arts,,,,,,
-10032295,Emmanuel Theological College,,,,,,,0,,0,0,,,,0,,86,Leeds Beckett University,,,,,,
-10022047,Empire College London Limited,,,,,,,0,,0,0,,,,0,,87,Teesside University,,,,,,
-10042570,Escape Studios,,,,,,,725,,0,725,,,,0,,88,Kingston University,,,,,,
-10007791,The University of Essex,,,,,,,955,,465,490,,,,0.003514739,,89,Glasgow Caledonian University,,,,,,
-10002313,ESCP Europe Business School,,,,,,,0,,0,0,,,,0,,90,University of Lancashire,,,,,,
-10007792,The University of Exeter,,,,,,,2175,,"1,160","1,015",,,,0.008767952,,91,University of South Wales,,,,,,
-10008640,Falmouth University,,,,,,,880,,30,850,,,,0.000226757,,92,Bath Spa University,,,,,,
-10045476,Met Film School Limited,,,,,,,0,,0,0,,,,0,,92,Canterbury Christ Church University,,,,,,
-10022087,Futureworks,,,,,,,225,,75,150,,,,0.000566893,,94,SOAS University of London,,,,,,
-10042500,Global Banking School Limited,,,,,,,0,,0,0,,,,0,,95,Birmingham City University,,,,,,
-10007762,Glasgow Caledonian University,,,,,,,2805,,"1,170","1,635",,,,0.008843537,,96,University of East London,,,,,,
-10002681,Glasgow School of Art,,,,,,,135,,50,85,,,,0.000377929,,97,University of Winchester,,,,,,
-10007794,The University of Glasgow,,,,,,,3330,,"2,115","1,215",,,,0.015986395,,98,University of Gloucestershire,,,,,,
-10007145,University of Gloucestershire,,,,,,,530,,65,465,,,,0.000491308,,98,University of Bradford,,,,,,
-10002718,Goldsmiths College,,,,,,,570,,0,570,,,,0,,98,University of Wales Trinity Saint David,,,,,,
-10030408,Gower College Swansea,,,,,,,0,,0,0,,,,0,,101,University of Wolverhampton,,,,,,
-10006841,University of Greater Manchester,,,,,,,1500,,910,590,,,,0.006878307,,102,"Queen Margaret University, Edinburgh",,,,,,
-10007146,The University of Greenwich,,,,,,,3085,,725,"2,360",,,,0.00547997,,102,University of Greenwich,,,,,,
-10007825,Guildhall School of Music and Drama,,,,,,,0,,0,0,,,,0,,104,University of Brighton,,,,,,
-10040812,Harper Adams University,,,,,,,60,,50,10,,,,0.000377929,,105,Abertay University,,,,,,
-10080811,Hartpury University,,,,,,,0,,0,0,,,,0,,106,University of Bedfordshire,,,,,,
-10000163,Health Sciences University,,,,,,,40,,0,40,,,,0,,107,Leeds Arts University,,,,,,
-10007764,Heriot-Watt University,,,,,,,2100,,"1,505",595,,,,0.011375661,,108,York St John University,,,,,,
-10007147,University of Hertfordshire,,,,,,,2840,,"1,220","1,620",,,,0.009221466,,109,Royal Agricultural University,,,,,,
-10020118,Higher Rhythm Limited,,,,,,,0,,0,0,,,,0,,110,De Montfort University,,,,,,
-10007148,The University of Huddersfield,,,,,,,1545,,660,885,,,,0.004988662,,111,University of Staffordshire,,,,,,
-10007149,The University of Hull,,,,,,,1110,,505,605,,,,0.003817082,,112,London South Bank University,,,,,,
-10003239,ICON College of Technology and Management,,,,,,,10,,0,10,,,,0,,113,Anglia Ruskin University,,,,,,
-10003270,"Imperial College of Science, Technology and Medicine",,,,,,,5295,,"4,525",770,,,,0.03420257,,114,Lincoln Bishop University,,,,,,
-10003284,Inchbald School of Design Limited,,,,,,,0,,0,0,,,,0,,115,"University of Westminster, London",,,,,,
-10057622,The School of Information Risk Management,,,,,,,80,,0,80,,,,0,,115,"Southampton, Solent University",,,,,,
-10013220,Institute of Art - London Limited,,,,,,,0,,0,0,,,,0,,117,University of Cumbria,,,,,,
-10035638,Institute of Contemporary Music Performance,,,,,,,515,,275,240,,,,0.002078609,,118,University of Greater Manchester,,,,,,
-10027603,International College of Musical Theatre,,,,,,,0,,0,0,,,,0,,119,Arts University Plymouth,,,,,,
-10082728,INTO University Partnerships Limited,,,,,,,0,,0,0,,,,0,,120,Buckinghamshire New University,,,,,,
-10029682,The Islamic College,,,,,,,0,,0,0,,,,0,,121,University of Northampton,,,,,,
-10067601,JSA Education Group Ltd.,,,,,,,0,,0,0,,,,0,,122,Middlesex University,,,,,,
-10082570,Kaplan International Colleges U.K. Limited,,,,,,,310,,115,195,,,,0.000869237,,123,University of Roehampton,,,,,,
-10021682,Kaplan Open Learning (Essex) Limited,,,,,,,55,,0,55,,,,0,,124,University of Buckingham,,,,,,
-10007767,Keele University,,,,,,,655,,50,605,,,,0.000377929,,125,Leeds Trinity University,,,,,,
-10007150,The University of Kent,,,,,,,1505,,505,"1,000",,,,0.003817082,,125,Plymouth Marjon University,,,,,,
-10003645,King's College London,,,,,,,2085,,940,"1,145",,,,0.007105064,,127,Birmingham Newman University,,,,,,
-10003678,Kingston University,,,,,,,2655,,"1,265","1,390",,,,0.009561602,,128,University of the West of Scotland,,,,,,
-10003746,Laine Theatre Arts,,,,,,,0,,0,0,,,,0,,129,London Metropolitan University,,,,,,
-10003758,LAMDA Limited,,,,,,,0,,0,0,,,,0,,130,Wrexham University,,,,,,
-10007141,University of Lancashire,,,,,,,2170,,"1,270",900,,,,0.009599395,,,,,,,,,
-10007768,The University of Lancaster,,,,,,,2055,,655,"1,400",,,,0.004950869,,,,,,,,,
-10003854,Leeds Arts University,,,,,,,15,,0,15,,,,0,,,,,,,,,
-10003861,Leeds Beckett University,,,,,,,1445,,470,975,,,,0.003552532,,,,,,,,,
-10003798,Le Cordon Bleu Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10034449,Leeds Conservatoire,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007795,The University of Leeds,,,,,,,3475,,"2,475","1,000",,,,0.018707483,,,,,,,,,
-10003863,Leeds Trinity University,,,,,,,130,,0,130,,,,0,,,,,,,,,
-10082828,College of Legal Practice Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007796,The University of Leicester,,,,,,,2210,,805,"1,405",,,,0.006084656,,,,,,,,,
-10007151,The University of Lincoln,,,,,,,1130,,540,590,,,,0.004081633,,,,,,,,,
-10007811,Lincoln Bishop University,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10036456,Academy of Live Technology Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10003956,Liverpool Hope University,,,,,,,285,,35,250,,,,0.00026455,,,,,,,,,
-10003957,Liverpool John Moores University,,,,,,,2175,,"1,335",840,,,,0.010090703,,,,,,,,,
-10031239,LMA,,,,,,,20,,0,20,,,,0,,,,,,,,,
-10003945,The Liverpool Institute for Performing Arts,,,,,,,100,,100,0,,,,0.000755858,,,,,,,,,
-10006842,The University of Liverpool,,,,,,,3455,,"2,065","1,390",,,,0.015608466,,,,,,,,,
-10007820,Grŵp Llandrillo Menai,,,,,,,210,,160,50,,,,0.001209373,,,,,,,,,
-10007162,"University of the Arts, London",,,,,,,630,,10,620,,,,7.55858E-05,,,,,,,,,
-10013109,London Bridge Business Academy,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10030391,London Churchill College Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007797,University of London (Institutes and activities),,,,,,,560,,0,560,,,,0,,,,,,,,,
-10039082,City and Guilds of London Art School,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10015506,The London College,,,,,,,400,,390,10,,,,0.002947846,,,,,,,,,
-10004048,London Metropolitan University,,,,,,,675,,120,555,,,,0.000907029,,,,,,,,,
-10032594,London School of Academics Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004078,London South Bank University,,,,,,,2585,,"2,015",570,,,,0.015230537,,,,,,,,,
-10004063,London School of Economics and Political Science,,,,,,,25,,0,25,,,,0,,,,,,,,,
-10022285,London School of Management Education,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004075,London School of Theology,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004079,London Studio Centre,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10029147,London School of Jewish Studies,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10065543,London Brookes College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004035,The Film Education Training Trust Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10067623,The London Interdisciplinary School Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004113,Loughborough University,,,,,,,4600,,"3,985",615,,,,0.030120937,,,,,,,,,
-10009612,Luther King House Educational Trust,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10042679,International Business College Manchester Limited,,,,,,,5,,0,5,,,,0,,,,,,,,,
-10004180,The Manchester Metropolitan University,,,,,,,4380,,"1,275","3,105",,,,0.009637188,,,,,,,,,
-10007798,The University of Manchester,,,,,,,4955,,"3,800","1,155",,,,0.0287226,,,,,,,,,
-10009527,Istituto Marangoni Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10023452,The Markfield Institute of Higher Education,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10023453,Matrix College of Counselling and Psychotherapy Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10020416,Missio Dei,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10030776,St Mellitus College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004320,The Metanoia Institute,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004351,Middlesex University,,,,,,,1435,,205,"1,230",,,,0.001549509,,,,,,,,,
-10049370,MLA College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004450,Mountview Academy of Theatre Arts,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10023777,Mont Rose College of Management and Sciences Limited,,,,,,,10,,0,10,,,,0,,,,,,,,,
-10023454,Moorlands College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10055902,Multiverse,,,,,,,5545,,0,"5,545",,,,0,,,,,,,,,
-10001444,National Centre for Circus Arts,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10000216,All Nations Christian College Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004538,Nazarene Theological College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10030129,Nelson College London Ltd,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10023456,Newbold College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007799,Newcastle University,,,,,,,2975,,"1,850","1,125",,,,0.013983371,,,,,,,,,
-10067406,New Model Institute for Technology and Engineering (NMITE),,,,,,,110,,110,0,,,,0.000831444,,,,,,,,,
-10048199,Northeastern University London,,,,,,,145,,0,145,,,,0,,,,,,,,,
-10008397,Norland College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007138,The University of Northampton,,,,,,,1285,,430,855,,,,0.003250189,,,,,,,,,
-10009614,Grŵp NPTC Group,,,,,,,55,,40,15,,,,0.000302343,,,,,,,,,
-10008816,Northern School of Contemporary Dance,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004740,Northern College of Acupuncture,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10001282,University of Northumbria at Newcastle,,,,,,,2415,,"1,025","1,390",,,,0.007747543,,,,,,,,,
-10004775,Norwich University of the Arts,,,,,,,675,,0,675,,,,0,,,,,,,,,
-10007154,University of Nottingham,,,,,,,5005,,"3,685","1,320",,,,0.027853364,,,,,,,,,
-10004797,The Nottingham Trent University,,,,,,,3660,,"1,775","1,885",,,,0.013416478,,,,,,,,,
-10007773,The Open University,,,,,,,16075,,"5,090","10,985",,,,0.038473167,,,,,,,,,
-10004930,Oxford Brookes University,,,,,,,1415,,850,565,,,,0.006424792,,,,,,,,,
-10007774,The University of Oxford,,,,,,,1145,,850,295,,,,0.006424792,,,,,,,,,
-10066143,Paris Dauphine International,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10004028,"The Place, London Contemporary Dance School (LCDS)",,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005127,Arts University Plymouth,,,,,,,65,,0,65,,,,0,,,,,,,,,
-10007801,University of Plymouth,,,,,,,1410,,725,685,,,,0.00547997,,,,,,,,,
-10019178,Point Blank Music School,,,,,,,510,,510,0,,,,0.003854875,,,,,,,,,
-10007155,The University of Portsmouth,,,,,,,3725,,"1,675","2,050",,,,0.01266062,,,,,,,,,
-10005337,"Queen Margaret University, Edinburgh",,,,,,,120,,0,120,,,,0,,,,,,,,,
-10007775,Queen Mary University of London,,,,,,,2990,,"1,645","1,345",,,,0.012433862,,,,,,,,,
-10025197,University Centre Quayside Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10009292,Royal Academy of Dramatic Art,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005544,Royal Academy of Dance,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005378,Rambert School,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005389,Ravensbourne University London,,,,,,,585,,55,530,,,,0.000415722,,,,,,,,,
-10005470,"Richmond, The American International University in London",,,,,,,115,,0,115,,,,0,,,,,,,,,
-10007802,The University of Reading,,,,,,,825,,165,660,,,,0.001247166,,,,,,,,,
-10086591,Regent's University London Limited,,,,,,,30,,0,30,,,,0,,,,,,,,,
-10021100,Regents Theological College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10023871,Results Consortium Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10062833,Raindance Educational Services Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10008455,Regent College London,,,,,,,1105,,0,"1,105",,,,0,,,,,,,,,
-10005500,Robert Gordon University,,,,,,,1385,,400,985,,,,0.003023432,,,,,,,,,
-10007776,Roehampton University,,,,,,,740,,15,725,,,,0.000113379,,,,,,,,,
-10005523,Rose Bruford College of Theatre and Performance,,,,,,,90,,35,55,,,,0.00026455,,,,,,,,,
-10007835,Royal Academy of Music,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005545,Royal Agricultural University,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007777,Royal College of Art,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007778,Royal College of Music,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005561,Royal Conservatoire of Scotland,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007816,The Royal Central School of Speech and Drama,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005553,Royal Holloway and Bedford New College,,,,,,,1470,,130,"1,340",,,,0.000982615,,,,,,,,,
-10007837,Royal Northern College of Music,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007779,The Royal Veterinary College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007803,The University of St. Andrews,,,,,,,455,,0,455,,,,0,,,,,,,,,
-10008026,St Mary's University College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007843,"St Mary's University, Twickenham",,,,,,,100,,0,100,,,,0,,,,,,,,,
-10007156,The University of Salford,,,,,,,2230,,"1,165","1,065",,,,0.008805745,,,,,,,,,
-10021256,William Booth College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10008362,London School of Science and Technology Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007780,SOAS University of London,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005700,SRUC,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10005790,Sheffield Hallam University,,,,,,,3280,,"1,530","1,750",,,,0.011564626,,,,,,,,,
-10007157,The University of Sheffield,,,,,,,5660,,"4,775",885,,,,0.036092215,,,,,,,,,
-10023458,The Sherwood Psychotherapy Training Institute Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007158,The University of Southampton,,,,,,,4180,,"3,045","1,135",,,,0.023015873,,,,,,,,,
-10006022,Southampton Solent University,,,,,,,2495,,"1,230","1,265",,,,0.009297052,,,,,,,,,
-10088214,S P Jain London School of Management Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10006299,University of Staffordshire,,,,,,,3615,,925,"2,690",,,,0.006991686,,,,,,,,,
-10008098,Study Group,,,,,,,420,,245,175,,,,0.001851852,,,,,,,,,
-10004747,St Hild College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007804,The University of Stirling,,,,,,,330,,0,330,,,,0,,,,,,,,,
-10037449,University of St Mark and St John,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10090767,St Padarn's Institute,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10008010,Stranmillis University College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10022944,Stratford College London (SCL),,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007805,The University of Strathclyde,,,,,,,4215,,"3,430",785,,,,0.025925926,,,,,,,,,
-10014001,University of Suffolk,,,,,,,225,,30,195,,,,0.000226757,,,,,,,,,
-10007159,The University of Sunderland,,,,,,,875,,360,515,,,,0.002721088,,,,,,,,,
-10007160,The University of Surrey,,,,,,,2160,,"1,380",780,,,,0.010430839,,,,,,,,,
-10007806,The University of Sussex,,,,,,,1475,,500,975,,,,0.003779289,,,,,,,,,
-10007855,Swansea University,,,,,,,3245,,"2,250",995,,,,0.017006803,,,,,,,,,
-10020381,Tavistock and Portman NHS Foundation Trust,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10083403,The Engineering and Design Institute London,,,,,,,165,,165,0,,,,0.001247166,,,,,,,,,
-10007161,Teesside University,,,,,,,4085,,"2,535","1,550",,,,0.019160998,,,,,,,,,
-10008017,Trinity Laban Conservatoire of Music and Dance,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007858,University of Wales Trinity Saint David,,,,,,,1870,,745,"1,125",,,,0.005631141,,,,,,,,,
-10068157,University Centre Peterborough,,,,,,,50,,45,5,,,,0.000340136,,,,,,,,,
-10007114,University of the Highlands and Islands,,,,,,,1065,,720,345,,,,0.005442177,,,,,,,,,
-10007807,Ulster University,,,,,,,4000,,"1,685","2,315",,,,0.012736206,,,,,,,,,
-10039956,The University of Law,,,,,,,10,,0,10,,,,0,,,,,,,,,
-10007784,University College London,,,,,,,3640,,"3,015",625,,,,0.022789116,,,,,,,,,
-10007793,University of South Wales,,,,,,,2225,,"1,205","1,020",,,,0.009108088,,,,,,,,,
-10089591,Walbrook Institute London Limited,,,,,,,95,,0,95,,,,0,,,,,,,,,
-10029843,Waltham International College Limited,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007163,The University of Warwick,,,,,,,2875,,"2,090",785,,,,0.01579743,,,,,,,,,
-10007361,Waverley Abbey College,,,,,,,0,,0,0,,,,0,,,,,,,,,
-10007164,"University of the West of England, Bristol",,,,,,,4275,,"2,510","1,765",,,,0.018972033,,,,,,,,,
-10007800,The University of the West of Scotland,,,,,,,995,,330,665,,,,0.002494331,,,,,,,,,
-10032288,West Dean College,,,,,,,10,,10,0,,,,7.55858E-05,,,,,,,,,
-10006566,The University of West London,,,,,,,1815,,445,"1,370",,,,0.003363568,,,,,,,,,
-10007165,The University of Westminster,,,,,,,2105,,95,"2,010",,,,0.000718065,,,,,,,,,
-10003614,The University of Winchester,,,,,,,255,,0,255,,,,0,,,,,,,,,
-10007166,The University of Wolverhampton,,,,,,,1350,,490,860,,,,0.003703704,,,,,,,,,
-10007139,University of Worcester,,,,,,,270,,30,240,,,,0.000226757,,,,,,,,,
-10007833,Wrexham University,,,,,,,775,,540,235,,,,0.004081633,,,,,,,,,
-10007713,York St John University,,,,,,,435,,0,435,,,,0,,,,,,,,,
-10007167,The University of York,,,,,,,1290,,455,835,,,,0.003439153,,,,,,,,,
-,Total,,,,,,,,,"132,300","142,430",,,,,,,,,,,,,
+﻿UKPRN,HE provider,,,,,,,STEM total,,10 Engineering and technology,11 Computing,,,,Eng Prop,,Rank,Institution
+10008071,AA School of Architecture,,,,,,,0,,0,0,,,,0,,1,University of Cambridge
+10007783,The University of Aberdeen,,,,,,,970,,680,290,,,,0.005139834,,2,University of Oxford
+10007849,Abertay University,,,,,,,1040,,90,950,,,,0.000680272,,3,"London School of Economics and Political Science, University of London"
+10007856,Aberystwyth University,,,,,,,605,,60,545,,,,0.000453515,,4,University of St Andrews
+10092025,ACMET London College,,,,,,,0,,0,0,,,,0,,5,Imperial College London
+10067853,ACM Guildford Limited,,,,,,,90,,0,90,,,,0,,6,Durham University
+10032036,Amity University [IN] London,,,,,,,0,,0,0,,,,0,,7,University of Warwick
+10030497,Anglo Skills College,,,,,,,0,,0,0,,,,0,,8,Loughborough University
+10000291,Anglia Ruskin University,,,,,,,2100,,585,"1,515",,,,0.004421769,,9,University of Bath
+10041898,Apex College,,,,,,,0,,0,0,,,,0,,10,Lancaster University
+10005451,Arden University,,,,,,,2770,,85,"2,685",,,,0.000642479,,11,University of Exeter
+10000381,Arts Educational Schools,,,,,,,0,,0,0,,,,0,,12,University of Birmingham
+10008899,The Ashridge (Bonar Law Memorial) Trust,,,,,,,0,,0,0,,,,0,,13,University of Sheffield
+10003212,Hult International Business School Ltd,,,,,,,0,,0,0,,,,0,,13,UCL (University College London)
+10007759,Aston University,,,,,,,4130,,"2,120","2,010",,,,0.016024187,,15,University of Southampton
+10007857,Bangor University,,,,,,,430,,130,300,,,,0.000982615,,16,"King's College London, University of London"
+10000571,Bath Spa University,,,,,,,985,,0,985,,,,0,,17,University of Bristol
+10007850,The University of Bath,,,,,,,3705,,"2,985",720,,,,0.022562358,,18,University of Leeds
+10007152,University of Bedfordshire,,,,,,,760,,125,635,,,,0.000944822,,19,The University of Edinburgh
+10005343,Queen's University Belfast,,,,,,,3315,,"1,705","1,610",,,,0.012887377,,20,University of York
+10037544,BIMM University,,,,,,,555,,540,15,,,,0.004081633,,21,University of Surrey
+10007810,Birmingham Christian College,,,,,,,0,,0,0,,,,0,,22,University of Liverpool
+10007760,Birkbeck College,,,,,,,485,,0,485,,,,0,,23,Queen's University Belfast
+10007140,Birmingham City University,,,,,,,3415,,"1,185","2,230",,,,0.008956916,,24,University of Manchester
+10006840,The University of Birmingham,,,,,,,4030,,"2,435","1,595",,,,0.01840514,,25,University of Dundee
+10000712,University College Birmingham,,,,,,,465,,40,425,,,,0.000302343,,26,University of Nottingham
+10007832,Birmingham Newman University,,,,,,,70,,0,70,,,,0,,27,Cardiff University
+10000894,Bristol Baptist College,,,,,,,0,,0,0,,,,0,,27,University of the Arts London
+10004061,Bloomsbury Institute,,,,,,,0,,0,0,,,,0,,29,University of Glasgow
+10000385,The Arts University Bournemouth,,,,,,,85,,5,80,,,,3.78E-05,,30,University of Essex
+10000824,Bournemouth University,,,,,,,1700,,295,"1,405",,,,0.002229781,,31,Heriot-Watt University
+10031982,BPP University,,,,,,,755,,0,755,,,,0,,32,University of Aberdeen
+10007785,The University of Bradford,,,,,,,1275,,500,775,,,,0.003779289,,33,University of Leicester
+10000886,The University of Brighton,,,,,,,1395,,735,660,,,,0.005555556,,34,University of East Anglia UEA
+10007786,The University of Bristol,,,,,,,3400,,"2,525",875,,,,0.019085412,,35,Newcastle University
+10023464,Trinity College Bristol,,,,,,,0,,0,0,,,,0,,36,University of Sussex
+10000961,Brunel University London,,,,,,,2845,,"1,240","1,605",,,,0.009372638,,37,"Northumbria University, Newcastle"
+10000975,Buckinghamshire New University,,,,,,,660,,185,475,,,,0.001398337,,38,Harper Adams University
+10008173,University of the Built Environment,,,,,,,0,,0,0,,,,0,,39,University of Strathclyde
+10007787,The University of Buckingham,,,,,,,95,,5,90,,,,3.78E-05,,40,Queen Mary University of London
+10042737,UK Business College Ltd,,,,,,,0,,0,0,,,,0,,41,Swansea University
+10019368,London College of Business Studies,,,,,,,20,,0,20,,,,0,,42,"Royal Holloway, University of London"
+10010308,Cambridge Arts and Sciences Limited,,,,,,,0,,0,0,,,,0,,43,University of Reading
+10007788,The University of Cambridge,,,,,,,2295,,"1,880",415,,,,0.014210128,,44,University of Suffolk
+10032072,The Cambridge Theological Federation,,,,,,,0,,0,0,,,,0,,45,Oxford Brookes University
+10001143,Canterbury Christ Church University,,,,,,,640,,150,490,,,,0.001133787,,46,Nottingham Trent University
+10007814,Cardiff University,,,,,,,2615,,"1,640",975,,,,0.01239607,,47,Ulster University
+10034450,Cardiff and Vale College,,,,,,,40,,25,15,,,,0.000188964,,48,Brunel University of London
+10086359,Caspian School of Academics,,,,,,,280,,0,280,,,,0,,49,Bangor University
+10007854,Cardiff Metropolitan University,,,,,,,1065,,295,770,,,,0.002229781,,50,University of Lincoln
+10057213,CEG UFP Limited,,,,,,,100,,70,30,,,,0.000529101,,50,University of Portsmouth
+10001264,Central School of Ballet,,,,,,,0,,0,0,,,,0,,52,"Aston University, Birmingham"
+10024024,Central Film School,,,,,,,0,,0,0,,,,0,,53,Manchester Metropolitan University
+10007848,University of Chester,,,,,,,550,,90,460,,,,0.000680272,,54,Keele University
+10007137,The University of Chichester,,,,,,,250,,130,120,,,,0.000982615,,55,University of Stirling
+10001386,Chicken Shed Theatre Company,,,,,,,0,,0,0,,,,0,,56,Aberystwyth University
+10001546,The College of Integrated Chinese Medicine,,,,,,,0,,0,0,,,,0,,57,Coventry University
+10026921,Christ the Redeemer College,,,,,,,0,,0,0,,,,0,,58,Edge Hill University
+10010213,The City College,,,,,,,0,,0,0,,,,0,,59,"City St George's, University of London"
+10001478,"City St George's, University of London",,,,,,,2320,,"1,230","1,090",,,,0.009297052,,60,Norwich University of the Arts
+10007912,Cliff College,,,,,,,0,,0,0,,,,0,,61,"Goldsmiths, University of London"
+10066502,The College of Health Ltd,,,,,,,0,,0,0,,,,0,,62,University of Kent
+10041295,Coleg Cambria,,,,,,,15,,10,5,,,,7.56E-05,,63,University of Chichester
+10008912,Coleg Gwent,,,,,,,35,,35,0,,,,0.00026455,,64,University of Hull
+10091065,Collective Acting Studio,,,,,,,0,,0,0,,,,0,,65,Falmouth University
+10023442,The College of Osteopaths,,,,,,,0,,0,0,,,,0,,66,University of Salford
+10020038,Commonwealth College of Excellence,,,,,,,70,,0,70,,,,0,,67,University of Plymouth
+10007761,Courtauld Institute of Art,,,,,,,0,,0,0,,,,0,,68,University of Huddersfield
+10034324,Court Theatre Training Company Ltd,,,,,,,0,,0,0,,,,0,,68,University of Sunderland
+10001726,Coventry University,,,,,,,3420,,"1,820","1,600",,,,0.013756614,,70,University of Hertfordshire
+10007822,Cranfield University,,,,,,,380,,15,365,,,,0.000113379,,71,University of Derby
+10006427,University for the Creative Arts,,,,,,,670,,0,670,,,,0,,72,Cardiff Metropolitan University
+10007842,University of Cumbria,,,,,,,120,,115,5,,,,0.000869237,,72,Arts University Bournemouth
+10015688,David Game College Ltd,,,,,,,30,,0,30,,,,0,,74,"Bristol, UWE"
+10001883,De Montfort University,,,,,,,2955,,"1,125","1,830",,,,0.008503401,,75,Robert Gordon University
+10007851,University of Derby,,,,,,,1985,,"1,410",575,,,,0.010657596,,76,Liverpool John Moores University
+10007852,The University of Dundee,,,,,,,675,,405,270,,,,0.003061224,,77,Bournemouth University
+10007143,University of Durham,,,,,,,1205,,685,520,,,,0.005177627,,78,University of Chester
+10067355,Dyson Technical Training Limited,,,,,,,165,,165,0,,,,0.001247166,,79,"St Mary's University, Twickenham"
+10007789,The University of East Anglia,,,,,,,1010,,300,710,,,,0.002267574,,80,University of Worcester
+10007144,The University of East London,,,,,,,2900,,825,"2,075",,,,0.006235828,,81,Sheffield Hallam University
+10032282,The Queen's Foundation for Ecumenical Theological Education,,,,,,,0,,0,0,,,,0,,81,Edinburgh Napier University
+10007823,Edge Hill University,,,,,,,595,,130,465,,,,0.000982615,,83,Liverpool Hope University
+10007772,Edinburgh Napier University,,,,,,,2000,,460,"1,540",,,,0.003476946,,84,University of West London
+10007790,The University of Edinburgh,,,,,,,3025,,"1,930","1,095",,,,0.014588057,,85,University for the Creative Arts
+10032295,Emmanuel Theological College,,,,,,,0,,0,0,,,,0,,86,Leeds Beckett University
+10022047,Empire College London Limited,,,,,,,0,,0,0,,,,0,,87,Teesside University
+10042570,Escape Studios,,,,,,,725,,0,725,,,,0,,88,Kingston University
+10007791,The University of Essex,,,,,,,955,,465,490,,,,0.003514739,,89,Glasgow Caledonian University
+10002313,ESCP Europe Business School,,,,,,,0,,0,0,,,,0,,90,University of Lancashire
+10007792,The University of Exeter,,,,,,,2175,,"1,160","1,015",,,,0.008767952,,91,University of South Wales
+10008640,Falmouth University,,,,,,,880,,30,850,,,,0.000226757,,92,Bath Spa University
+10045476,Met Film School Limited,,,,,,,0,,0,0,,,,0,,92,Canterbury Christ Church University
+10022087,Futureworks,,,,,,,225,,75,150,,,,0.000566893,,94,SOAS University of London
+10042500,Global Banking School Limited,,,,,,,0,,0,0,,,,0,,95,Birmingham City University
+10007762,Glasgow Caledonian University,,,,,,,2805,,"1,170","1,635",,,,0.008843537,,96,University of East London
+10002681,Glasgow School of Art,,,,,,,135,,50,85,,,,0.000377929,,97,University of Winchester
+10007794,The University of Glasgow,,,,,,,3330,,"2,115","1,215",,,,0.015986395,,98,University of Gloucestershire
+10007145,University of Gloucestershire,,,,,,,530,,65,465,,,,0.000491308,,98,University of Bradford
+10002718,Goldsmiths College,,,,,,,570,,0,570,,,,0,,98,University of Wales Trinity Saint David
+10030408,Gower College Swansea,,,,,,,0,,0,0,,,,0,,101,University of Wolverhampton
+10006841,University of Greater Manchester,,,,,,,1500,,910,590,,,,0.006878307,,102,"Queen Margaret University, Edinburgh"
+10007146,The University of Greenwich,,,,,,,3085,,725,"2,360",,,,0.00547997,,102,University of Greenwich
+10007825,Guildhall School of Music and Drama,,,,,,,0,,0,0,,,,0,,104,University of Brighton
+10040812,Harper Adams University,,,,,,,60,,50,10,,,,0.000377929,,105,Abertay University
+10080811,Hartpury University,,,,,,,0,,0,0,,,,0,,106,University of Bedfordshire
+10000163,Health Sciences University,,,,,,,40,,0,40,,,,0,,107,Leeds Arts University
+10007764,Heriot-Watt University,,,,,,,2100,,"1,505",595,,,,0.011375661,,108,York St John University
+10007147,University of Hertfordshire,,,,,,,2840,,"1,220","1,620",,,,0.009221466,,109,Royal Agricultural University
+10020118,Higher Rhythm Limited,,,,,,,0,,0,0,,,,0,,110,De Montfort University
+10007148,The University of Huddersfield,,,,,,,1545,,660,885,,,,0.004988662,,111,University of Staffordshire
+10007149,The University of Hull,,,,,,,1110,,505,605,,,,0.003817082,,112,London South Bank University
+10003239,ICON College of Technology and Management,,,,,,,10,,0,10,,,,0,,113,Anglia Ruskin University
+10003270,"Imperial College of Science, Technology and Medicine",,,,,,,5295,,"4,525",770,,,,0.03420257,,114,Lincoln Bishop University
+10003284,Inchbald School of Design Limited,,,,,,,0,,0,0,,,,0,,115,"University of Westminster, London"
+10057622,The School of Information Risk Management,,,,,,,80,,0,80,,,,0,,115,"Southampton, Solent University"
+10013220,Institute of Art - London Limited,,,,,,,0,,0,0,,,,0,,117,University of Cumbria
+10035638,Institute of Contemporary Music Performance,,,,,,,515,,275,240,,,,0.002078609,,118,University of Greater Manchester
+10027603,International College of Musical Theatre,,,,,,,0,,0,0,,,,0,,119,Arts University Plymouth
+10082728,INTO University Partnerships Limited,,,,,,,0,,0,0,,,,0,,120,Buckinghamshire New University
+10029682,The Islamic College,,,,,,,0,,0,0,,,,0,,121,University of Northampton
+10067601,JSA Education Group Ltd.,,,,,,,0,,0,0,,,,0,,122,Middlesex University
+10082570,Kaplan International Colleges U.K. Limited,,,,,,,310,,115,195,,,,0.000869237,,123,University of Roehampton
+10021682,Kaplan Open Learning (Essex) Limited,,,,,,,55,,0,55,,,,0,,124,University of Buckingham
+10007767,Keele University,,,,,,,655,,50,605,,,,0.000377929,,125,Leeds Trinity University
+10007150,The University of Kent,,,,,,,1505,,505,"1,000",,,,0.003817082,,125,Plymouth Marjon University
+10003645,King's College London,,,,,,,2085,,940,"1,145",,,,0.007105064,,127,Birmingham Newman University
+10003678,Kingston University,,,,,,,2655,,"1,265","1,390",,,,0.009561602,,128,University of the West of Scotland
+10003746,Laine Theatre Arts,,,,,,,0,,0,0,,,,0,,129,London Metropolitan University
+10003758,LAMDA Limited,,,,,,,0,,0,0,,,,0,,130,Wrexham University
+10007141,University of Lancashire,,,,,,,2170,,"1,270",900,,,,0.009599395,,,
+10007768,The University of Lancaster,,,,,,,2055,,655,"1,400",,,,0.004950869,,,
+10003854,Leeds Arts University,,,,,,,15,,0,15,,,,0,,,
+10003861,Leeds Beckett University,,,,,,,1445,,470,975,,,,0.003552532,,,
+10003798,Le Cordon Bleu Limited,,,,,,,0,,0,0,,,,0,,,
+10034449,Leeds Conservatoire,,,,,,,0,,0,0,,,,0,,,
+10007795,The University of Leeds,,,,,,,3475,,"2,475","1,000",,,,0.018707483,,,
+10003863,Leeds Trinity University,,,,,,,130,,0,130,,,,0,,,
+10082828,College of Legal Practice Limited,,,,,,,0,,0,0,,,,0,,,
+10007796,The University of Leicester,,,,,,,2210,,805,"1,405",,,,0.006084656,,,
+10007151,The University of Lincoln,,,,,,,1130,,540,590,,,,0.004081633,,,
+10007811,Lincoln Bishop University,,,,,,,0,,0,0,,,,0,,,
+10036456,Academy of Live Technology Ltd,,,,,,,0,,0,0,,,,0,,,
+10003956,Liverpool Hope University,,,,,,,285,,35,250,,,,0.00026455,,,
+10003957,Liverpool John Moores University,,,,,,,2175,,"1,335",840,,,,0.010090703,,,
+10031239,LMA,,,,,,,20,,0,20,,,,0,,,
+10003945,The Liverpool Institute for Performing Arts,,,,,,,100,,100,0,,,,0.000755858,,,
+10006842,The University of Liverpool,,,,,,,3455,,"2,065","1,390",,,,0.015608466,,,
+10007820,Grŵp Llandrillo Menai,,,,,,,210,,160,50,,,,0.001209373,,,
+10007162,"University of the Arts, London",,,,,,,630,,10,620,,,,7.56E-05,,,
+10013109,London Bridge Business Academy,,,,,,,0,,0,0,,,,0,,,
+10030391,London Churchill College Ltd,,,,,,,0,,0,0,,,,0,,,
+10007797,University of London (Institutes and activities),,,,,,,560,,0,560,,,,0,,,
+10039082,City and Guilds of London Art School,,,,,,,0,,0,0,,,,0,,,
+10015506,The London College,,,,,,,400,,390,10,,,,0.002947846,,,
+10004048,London Metropolitan University,,,,,,,675,,120,555,,,,0.000907029,,,
+10032594,London School of Academics Ltd,,,,,,,0,,0,0,,,,0,,,
+10004078,London South Bank University,,,,,,,2585,,"2,015",570,,,,0.015230537,,,
+10004063,London School of Economics and Political Science,,,,,,,25,,0,25,,,,0,,,
+10022285,London School of Management Education,,,,,,,0,,0,0,,,,0,,,
+10004075,London School of Theology,,,,,,,0,,0,0,,,,0,,,
+10004079,London Studio Centre,,,,,,,0,,0,0,,,,0,,,
+10029147,London School of Jewish Studies,,,,,,,0,,0,0,,,,0,,,
+10065543,London Brookes College,,,,,,,0,,0,0,,,,0,,,
+10004035,The Film Education Training Trust Limited,,,,,,,0,,0,0,,,,0,,,
+10067623,The London Interdisciplinary School Ltd,,,,,,,0,,0,0,,,,0,,,
+10004113,Loughborough University,,,,,,,4600,,"3,985",615,,,,0.030120937,,,
+10009612,Luther King House Educational Trust,,,,,,,0,,0,0,,,,0,,,
+10042679,International Business College Manchester Limited,,,,,,,5,,0,5,,,,0,,,
+10004180,The Manchester Metropolitan University,,,,,,,4380,,"1,275","3,105",,,,0.009637188,,,
+10007798,The University of Manchester,,,,,,,4955,,"3,800","1,155",,,,0.0287226,,,
+10009527,Istituto Marangoni Limited,,,,,,,0,,0,0,,,,0,,,
+10023452,The Markfield Institute of Higher Education,,,,,,,0,,0,0,,,,0,,,
+10023453,Matrix College of Counselling and Psychotherapy Ltd,,,,,,,0,,0,0,,,,0,,,
+10020416,Missio Dei,,,,,,,0,,0,0,,,,0,,,
+10030776,St Mellitus College,,,,,,,0,,0,0,,,,0,,,
+10004320,The Metanoia Institute,,,,,,,0,,0,0,,,,0,,,
+10004351,Middlesex University,,,,,,,1435,,205,"1,230",,,,0.001549509,,,
+10049370,MLA College,,,,,,,0,,0,0,,,,0,,,
+10004450,Mountview Academy of Theatre Arts,,,,,,,0,,0,0,,,,0,,,
+10023777,Mont Rose College of Management and Sciences Limited,,,,,,,10,,0,10,,,,0,,,
+10023454,Moorlands College,,,,,,,0,,0,0,,,,0,,,
+10055902,Multiverse,,,,,,,5545,,0,"5,545",,,,0,,,
+10001444,National Centre for Circus Arts,,,,,,,0,,0,0,,,,0,,,
+10000216,All Nations Christian College Limited,,,,,,,0,,0,0,,,,0,,,
+10004538,Nazarene Theological College,,,,,,,0,,0,0,,,,0,,,
+10030129,Nelson College London Ltd,,,,,,,0,,0,0,,,,0,,,
+10023456,Newbold College,,,,,,,0,,0,0,,,,0,,,
+10007799,Newcastle University,,,,,,,2975,,"1,850","1,125",,,,0.013983371,,,
+10067406,New Model Institute for Technology and Engineering (NMITE),,,,,,,110,,110,0,,,,0.000831444,,,
+10048199,Northeastern University London,,,,,,,145,,0,145,,,,0,,,
+10008397,Norland College,,,,,,,0,,0,0,,,,0,,,
+10007138,The University of Northampton,,,,,,,1285,,430,855,,,,0.003250189,,,
+10009614,Grŵp NPTC Group,,,,,,,55,,40,15,,,,0.000302343,,,
+10008816,Northern School of Contemporary Dance,,,,,,,0,,0,0,,,,0,,,
+10004740,Northern College of Acupuncture,,,,,,,0,,0,0,,,,0,,,
+10001282,University of Northumbria at Newcastle,,,,,,,2415,,"1,025","1,390",,,,0.007747543,,,
+10004775,Norwich University of the Arts,,,,,,,675,,0,675,,,,0,,,
+10007154,University of Nottingham,,,,,,,5005,,"3,685","1,320",,,,0.027853364,,,
+10004797,The Nottingham Trent University,,,,,,,3660,,"1,775","1,885",,,,0.013416478,,,
+10007773,The Open University,,,,,,,16075,,"5,090","10,985",,,,0.038473167,,,
+10004930,Oxford Brookes University,,,,,,,1415,,850,565,,,,0.006424792,,,
+10007774,The University of Oxford,,,,,,,1145,,850,295,,,,0.006424792,,,
+10066143,Paris Dauphine International,,,,,,,0,,0,0,,,,0,,,
+10004028,"The Place, London Contemporary Dance School (LCDS)",,,,,,,0,,0,0,,,,0,,,
+10005127,Arts University Plymouth,,,,,,,65,,0,65,,,,0,,,
+10007801,University of Plymouth,,,,,,,1410,,725,685,,,,0.00547997,,,
+10019178,Point Blank Music School,,,,,,,510,,510,0,,,,0.003854875,,,
+10007155,The University of Portsmouth,,,,,,,3725,,"1,675","2,050",,,,0.01266062,,,
+10005337,"Queen Margaret University, Edinburgh",,,,,,,120,,0,120,,,,0,,,
+10007775,Queen Mary University of London,,,,,,,2990,,"1,645","1,345",,,,0.012433862,,,
+10025197,University Centre Quayside Limited,,,,,,,0,,0,0,,,,0,,,
+10009292,Royal Academy of Dramatic Art,,,,,,,0,,0,0,,,,0,,,
+10005544,Royal Academy of Dance,,,,,,,0,,0,0,,,,0,,,
+10005378,Rambert School,,,,,,,0,,0,0,,,,0,,,
+10005389,Ravensbourne University London,,,,,,,585,,55,530,,,,0.000415722,,,
+10005470,"Richmond, The American International University in London",,,,,,,115,,0,115,,,,0,,,
+10007802,The University of Reading,,,,,,,825,,165,660,,,,0.001247166,,,
+10086591,Regent's University London Limited,,,,,,,30,,0,30,,,,0,,,
+10021100,Regents Theological College,,,,,,,0,,0,0,,,,0,,,
+10023871,Results Consortium Limited,,,,,,,0,,0,0,,,,0,,,
+10062833,Raindance Educational Services Limited,,,,,,,0,,0,0,,,,0,,,
+10008455,Regent College London,,,,,,,1105,,0,"1,105",,,,0,,,
+10005500,Robert Gordon University,,,,,,,1385,,400,985,,,,0.003023432,,,
+10007776,Roehampton University,,,,,,,740,,15,725,,,,0.000113379,,,
+10005523,Rose Bruford College of Theatre and Performance,,,,,,,90,,35,55,,,,0.00026455,,,
+10007835,Royal Academy of Music,,,,,,,0,,0,0,,,,0,,,
+10005545,Royal Agricultural University,,,,,,,0,,0,0,,,,0,,,
+10007777,Royal College of Art,,,,,,,0,,0,0,,,,0,,,
+10007778,Royal College of Music,,,,,,,0,,0,0,,,,0,,,
+10005561,Royal Conservatoire of Scotland,,,,,,,0,,0,0,,,,0,,,
+10007816,The Royal Central School of Speech and Drama,,,,,,,0,,0,0,,,,0,,,
+10005553,Royal Holloway and Bedford New College,,,,,,,1470,,130,"1,340",,,,0.000982615,,,
+10007837,Royal Northern College of Music,,,,,,,0,,0,0,,,,0,,,
+10007779,The Royal Veterinary College,,,,,,,0,,0,0,,,,0,,,
+10007803,The University of St. Andrews,,,,,,,455,,0,455,,,,0,,,
+10008026,St Mary's University College,,,,,,,0,,0,0,,,,0,,,
+10007843,"St Mary's University, Twickenham",,,,,,,100,,0,100,,,,0,,,
+10007156,The University of Salford,,,,,,,2230,,"1,165","1,065",,,,0.008805745,,,
+10021256,William Booth College,,,,,,,0,,0,0,,,,0,,,
+10008362,London School of Science and Technology Limited,,,,,,,0,,0,0,,,,0,,,
+10007780,SOAS University of London,,,,,,,0,,0,0,,,,0,,,
+10005700,SRUC,,,,,,,0,,0,0,,,,0,,,
+10005790,Sheffield Hallam University,,,,,,,3280,,"1,530","1,750",,,,0.011564626,,,
+10007157,The University of Sheffield,,,,,,,5660,,"4,775",885,,,,0.036092215,,,
+10023458,The Sherwood Psychotherapy Training Institute Limited,,,,,,,0,,0,0,,,,0,,,
+10007158,The University of Southampton,,,,,,,4180,,"3,045","1,135",,,,0.023015873,,,
+10006022,Southampton Solent University,,,,,,,2495,,"1,230","1,265",,,,0.009297052,,,
+10088214,S P Jain London School of Management Limited,,,,,,,0,,0,0,,,,0,,,
+10006299,University of Staffordshire,,,,,,,3615,,925,"2,690",,,,0.006991686,,,
+10008098,Study Group,,,,,,,420,,245,175,,,,0.001851852,,,
+10004747,St Hild College,,,,,,,0,,0,0,,,,0,,,
+10007804,The University of Stirling,,,,,,,330,,0,330,,,,0,,,
+10037449,University of St Mark and St John,,,,,,,0,,0,0,,,,0,,,
+10090767,St Padarn's Institute,,,,,,,0,,0,0,,,,0,,,
+10008010,Stranmillis University College,,,,,,,0,,0,0,,,,0,,,
+10022944,Stratford College London (SCL),,,,,,,0,,0,0,,,,0,,,
+10007805,The University of Strathclyde,,,,,,,4215,,"3,430",785,,,,0.025925926,,,
+10014001,University of Suffolk,,,,,,,225,,30,195,,,,0.000226757,,,
+10007159,The University of Sunderland,,,,,,,875,,360,515,,,,0.002721088,,,
+10007160,The University of Surrey,,,,,,,2160,,"1,380",780,,,,0.010430839,,,
+10007806,The University of Sussex,,,,,,,1475,,500,975,,,,0.003779289,,,
+10007855,Swansea University,,,,,,,3245,,"2,250",995,,,,0.017006803,,,
+10020381,Tavistock and Portman NHS Foundation Trust,,,,,,,0,,0,0,,,,0,,,
+10083403,The Engineering and Design Institute London,,,,,,,165,,165,0,,,,0.001247166,,,
+10007161,Teesside University,,,,,,,4085,,"2,535","1,550",,,,0.019160998,,,
+10008017,Trinity Laban Conservatoire of Music and Dance,,,,,,,0,,0,0,,,,0,,,
+10007858,University of Wales Trinity Saint David,,,,,,,1870,,745,"1,125",,,,0.005631141,,,
+10068157,University Centre Peterborough,,,,,,,50,,45,5,,,,0.000340136,,,
+10007114,University of the Highlands and Islands,,,,,,,1065,,720,345,,,,0.005442177,,,
+10007807,Ulster University,,,,,,,4000,,"1,685","2,315",,,,0.012736206,,,
+10039956,The University of Law,,,,,,,10,,0,10,,,,0,,,
+10007784,University College London,,,,,,,3640,,"3,015",625,,,,0.022789116,,,
+10007793,University of South Wales,,,,,,,2225,,"1,205","1,020",,,,0.009108088,,,
+10089591,Walbrook Institute London Limited,,,,,,,95,,0,95,,,,0,,,
+10029843,Waltham International College Limited,,,,,,,0,,0,0,,,,0,,,
+10007163,The University of Warwick,,,,,,,2875,,"2,090",785,,,,0.01579743,,,
+10007361,Waverley Abbey College,,,,,,,0,,0,0,,,,0,,,
+10007164,"University of the West of England, Bristol",,,,,,,4275,,"2,510","1,765",,,,0.018972033,,,
+10007800,The University of the West of Scotland,,,,,,,995,,330,665,,,,0.002494331,,,
+10032288,West Dean College,,,,,,,10,,10,0,,,,7.56E-05,,,
+10006566,The University of West London,,,,,,,1815,,445,"1,370",,,,0.003363568,,,
+10007165,The University of Westminster,,,,,,,2105,,95,"2,010",,,,0.000718065,,,
+10003614,The University of Winchester,,,,,,,255,,0,255,,,,0,,,
+10007166,The University of Wolverhampton,,,,,,,1350,,490,860,,,,0.003703704,,,
+10007139,University of Worcester,,,,,,,270,,30,240,,,,0.000226757,,,
+10007833,Wrexham University,,,,,,,775,,540,235,,,,0.004081633,,,
+10007713,York St John University,,,,,,,435,,0,435,,,,0,,,
+10007167,The University of York,,,,,,,1290,,455,835,,,,0.003439153,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,Total,,,,,,,,,"132,300","142,430",,,,,,,
