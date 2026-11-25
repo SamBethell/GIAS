@@ -3,6 +3,7 @@ import math
 import pandas as pd
 from rapidfuzz import process, fuzz
 import streamlit as st
+import random
 
 def grades_dist():
     '''
@@ -47,7 +48,7 @@ def uni_ranking_dist():
             match = process.extractOne(uni,df['HE provider'].dropna().unique(),scorer=fuzz.token_sort_ratio)
             matched_uni = match[0]
             row = df.loc[df['HE provider'] == matched_uni]
-            uni_dict[uni] = -row['STEM total'].iloc[0]
+            uni_dict[uni] = row['STEM total'].iloc[0]
         except:
             continue
 
@@ -55,8 +56,9 @@ def uni_ranking_dist():
     uni_list = list(uni_dict.keys())
     return universities, uni_list, uni_dict
 
-universities, uni_list, uni_dict = uni_ranking_dist()
 
+universities, uni_list, uni_dict = uni_ranking_dist()
+print(uni_dict)
 grade_ranges = {
     'First class honours': [70, 100],
     'Upper second class honours': [60, 70],
@@ -85,6 +87,7 @@ class Graduate():
         self.n_internships = 0
         self.assign_grade()
         rank_norm = self.assign_rank()
+        self.employed = False
 
         self.w_2 = 0.5  # change constants later
         self.w_1 = 0.75
@@ -121,14 +124,24 @@ class Graduate():
         return 1 - uni_list.index(uni) / len(uni_list)
 
     def application_process_poocas(self, employers):
+        w_oa = 0.5
+        w_p = 0.7
         popularities = np.array([e.popularity for e in employers])
-        risk_choice = np.argmin(np.abs(popularities - (self.S + 0.1)))
-        safety_choice = np.argmin(np.abs(popularities - (self.S - 0.1)))
-        other_choices = np.argsort(np.abs(popularities - (self.S - 0.1)))[:3]
-        risk_choice.applicants.append(self.index)
-        safety_choice.applicants.append(self.index)
-        for choice in other_choices:
-            choice.applicants.append(self.index)
+        number_of_applicants = np.array([len(e.applicants)/len(employers) for e in employers])
+        choices = []
+        risk_score = self.S + 0.1
+        target_scores = np.random.uniform(0, risk_score, 5)
+        for target in target_scores:
+            idx = np.argmin((np.abs(popularities - (target + np.random.uniform(-0.15, 0.05))) + number_of_applicants) / (w_oa + w_p))
+            choices.append(employers[idx])
+        for company in choices:
+            company.applicants.append(self.index)
+
+    def application_process_normal(self, employers):
+        applications = random.sample(employers, round(0.5*len(employers))) # just picking random companies at the moment
+        for employer in applications:
+            employer.applicants.append(self.index)
+
 
 
 class Employer():
@@ -139,5 +152,21 @@ class Employer():
         self.c = 0.5
         self.l = self.c * np.exp(self.popularity)
         self.applicants = []
+        self.employees = []
+        self.vacancies = 5
+
+    def hiring(self, graduates):
+        new_employees = []
+        self.applicants.sort(key=lambda i: graduates[i].T)
+
+        for idx in self.applicants:
+            if not graduates[idx].employed:
+                new_employees.append(idx)
+                graduates[idx].employed = True
+
+            if len(new_employees) >= self.vacancies:
+                break
+
+        self.employees.extend(new_employees)
 
 
