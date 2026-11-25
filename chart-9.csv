@@ -1,0 +1,89 @@
+﻿Title,Classified first degree qualifications by class,""
+Location,UK,""
+Academic years,2006/07 to 2024/25,""
+Data source,HESA,""
+Data collection,"051,054,056",""
+Data source link,https://www.hesa.ac.uk/data-and-analysis/students/chart-9,""
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/students/chart-9.csv,""
+Licence,Creative Commons Attribution 4.0 International Licence,""
+Code page,Unicode UTF-8,""
+Disclaimer,Please note that this data includes rounded totals. Caution must be taken when importing into a pivot table so as not to double count.,""
+Last updated,Jan-26,""
+"","",""
+Academic Year,Classification of degree,Number
+2006/07,First class honours,36645
+2006/07,Upper second class honours,138755
+2006/07,Lower second class honours,92805
+2006/07,Third class honours/Pass,23205
+2007/08,First class honours,41145
+2007/08,Upper second class honours,148190
+2007/08,Lower second class honours,95085
+2007/08,Third class honours/Pass,23975
+2008/09,First class honours,43135
+2008/09,Upper second class honours,148390
+2008/09,Lower second class honours,93060
+2008/09,Third class honours/Pass,23810
+2009/10,First class honours,46830
+2009/10,Upper second class honours,156720
+2009/10,Lower second class honours,97160
+2009/10,Third class honours/Pass,24510
+2010/11,First class honours,53240
+2010/11,Upper second class honours,166195
+2010/11,Lower second class honours,99305
+2010/11,Third class honours/Pass,24855
+2011/12,First class honours,61585
+2011/12,Upper second class honours,178380
+2011/12,Lower second class honours,100285
+2011/12,Third class honours/Pass,23930
+2012/13,First class honours,69630
+2012/13,Upper second class honours,187400
+2012/13,Lower second class honours,98150
+2012/13,Third class honours/Pass,23465
+2013/14,First class honours,79410
+2013/14,Upper second class honours,198320
+2013/14,Lower second class honours,95965
+2013/14,Third class honours/Pass,21905
+2014/15,First class honours,82225
+2014/15,Upper second class honours,185565
+2014/15,Lower second class honours,86565
+2014/15,Third class honours/Pass,20600
+2015/16,First class honours,89785
+2015/16,Upper second class honours,189260
+2015/16,Lower second class honours,83595
+2015/16,Third class honours/Pass,19870
+2016/17,First class honours,102025
+2016/17,Upper second class honours,195095
+2016/17,Lower second class honours,81615
+2016/17,Third class honours/Pass,19780
+2017/18,First class honours,111655
+2017/18,Upper second class honours,195365
+2017/18,Lower second class honours,78400
+2017/18,Third class honours/Pass,18625
+2018/19,First class honours,115580
+2018/19,Upper second class honours,197685
+2018/19,Lower second class honours,78500
+2018/19,Third class honours/Pass,18140
+2019/20,First class honours,140390
+2019/20,Upper second class honours,189630
+2019/20,Lower second class honours,60930
+2019/20,Third class honours/Pass,11800
+2020/21,First class honours,155965
+2020/21,Upper second class honours,197360
+2020/21,Lower second class honours,61920
+2020/21,Third class honours/Pass,12990
+2021/22,First class honours,134005
+2021/22,Upper second class honours,193860
+2021/22,Lower second class honours,72290
+2021/22,Third class honours/Pass,16780
+2022/23,First class honours,122410
+2022/23,Upper second class honours,197120
+2022/23,Lower second class honours,82030
+2022/23,Third class honours/Pass,13295
+2023/24,First class honours,125490
+2023/24,Upper second class honours,207985
+2023/24,Lower second class honours,87725
+2023/24,Third class honours/Pass,14065
+2024/25,First class honours,132460
+2024/25,Upper second class honours,217380
+2024/25,Lower second class honours,82875
+2024/25,Third class honours/Pass,13005
