@@ -5,6 +5,7 @@ from rapidfuzz import process, fuzz
 import streamlit as st
 import random
 
+
 def grades_dist():
     '''
     Returns a distribution that will be used to
