@@ -123,7 +123,7 @@ class Graduate():
         self.uni = uni
         return 1 - uni_list.index(uni) / len(uni_list)
 
-    def application_process_poocas(self, employers):
+    def application_process_gias(self, employers):
         w_oa = 0.5
         w_p = 0.7
         popularities = np.array([e.popularity for e in employers])
@@ -168,5 +168,4 @@ class Employer():
                 break
 
         self.employees.extend(new_employees)
-
 

@@ -88,8 +88,8 @@ def run_simulation(application_method, progress_bar, offset, share, label):
         if application_method == "normal":
             graduate.application_process_normal(employers)
 
-        elif application_method == "poocas":
-            graduate.application_process_poocas(employers)
+        elif application_method == "gias":
+            graduate.application_process_gias(employers)
         tick(f"{label}: submitting applications")
 
     # Randomise employer hiring order
@@ -112,8 +112,8 @@ if st.sidebar.button("Run simulation"):
         "normal", progress_bar, offset=0.0, share=0.5, label="Normal"
     )
 
-    poocas_graduates, poocas_employers = run_simulation(
-        "poocas", progress_bar, offset=0.5, share=0.5, label="Poocas"
+    gias_graduates, gias_employers = run_simulation(
+        "gias", progress_bar, offset=0.5, share=0.5, label="Gias"
     )
 
     progress_bar.progress(1.0, text="Done")
@@ -123,8 +123,8 @@ if st.sidebar.button("Run simulation"):
     st.session_state["normal_graduates"] = normal_graduates
     st.session_state["normal_employers"] = normal_employers
 
-    st.session_state["poocas_graduates"] = poocas_graduates
-    st.session_state["poocas_employers"] = poocas_employers
+    st.session_state["gias_graduates"] = gias_graduates
+    st.session_state["gias_employers"] = gias_employers
 
     st.success("Both simulations completed!")
 
@@ -136,9 +136,9 @@ if "normal_graduates" in st.session_state:
             st.session_state["normal_graduates"],
             st.session_state["normal_employers"]
         ),
-        "Poocas": (
-            st.session_state["poocas_graduates"],
-            st.session_state["poocas_employers"]
+        "Gias": (
+            st.session_state["gias_graduates"],
+            st.session_state["gias_employers"]
         )
     }
 
@@ -209,10 +209,10 @@ if "normal_graduates" in st.session_state:
     )
 
     col2.metric(
-        "Poocas Scheme",
-        f"{results['Poocas']['Employment Rate (%)']:.2f}%",
+        "Gias Scheme",
+        f"{results['Gias']['Employment Rate (%)']:.2f}%",
         delta=(
-            f"{results['Poocas']['Employment Rate (%)'] - results['Normal']['Employment Rate (%)']:.2f} "
+            f"{results['Gias']['Employment Rate (%)'] - results['Normal']['Employment Rate (%)']:.2f} "
             "percentage points"
         )
     )
@@ -220,7 +220,7 @@ if "normal_graduates" in st.session_state:
     # Employer-level results (includes average T of each employer's employees)
     st.subheader("Employer Results")
 
-    tab1, tab2 = st.tabs(["Normal", "Poocas"])
+    tab1, tab2 = st.tabs(["Normal", "Gias"])
 
     with tab1:
         normal_data = employer_table(
@@ -233,19 +233,19 @@ if "normal_graduates" in st.session_state:
         )
 
     with tab2:
-        poocas_data = employer_table(
-            st.session_state["poocas_employers"],
-            st.session_state["poocas_graduates"]
+        gias_data = employer_table(
+            st.session_state["gias_employers"],
+            st.session_state["gias_graduates"]
         )
         st.dataframe(
-            poocas_data.style.format({"Average T of Employees": "{:.4f}"}, na_rep="-"),
+            gias_data.style.format({"Average T of Employees": "{:.4f}"}, na_rep="-"),
             use_container_width=True
         )
 
     # Graduate-level results
     st.subheader("Graduate Results")
 
-    tab1, tab2 = st.tabs(["Normal", "Poocas"])
+    tab1, tab2 = st.tabs(["Normal", "Gias"])
 
     with tab1:
         normal_graduate_data = pd.DataFrame([
@@ -260,13 +260,13 @@ if "normal_graduates" in st.session_state:
         st.dataframe(normal_graduate_data, use_container_width=True)
 
     with tab2:
-        poocas_graduate_data = pd.DataFrame([
+        gias_graduate_data = pd.DataFrame([
             {
                 "Graduate": graduate.index,
                 "Employed": graduate.employed,
                 "T": graduate.T
             }
-            for graduate in st.session_state["poocas_graduates"]
+            for graduate in st.session_state["gias_graduates"]
         ])
 
-        st.dataframe(poocas_graduate_data, use_container_width=True)
+        st.dataframe(gias_graduate_data, use_container_width=True)
